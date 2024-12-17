@@ -1,0 +1,49 @@
+ID,Label,Description
+KIN_001,isRelativeOf,A relation that indicates that a person is connected to another biologically or through a socio-legal relationship.
+KIN_002,isBiologicalRelativeOf,A relation that indicates that a person is related to another person biologically.
+KIN_004,isSpermDonorOf,A relation between a man who donated his sperm and the child.
+KIN_005,isGestationalCarrierOf,"A relation between the woman who carried a fertilised egg in her womb and gave birth to a child on behalf of the mother, and the child."
+KIN_006,isSurrogateOvumDonorOf,"A relation between the woman who carried her fertilised egg in her womb and gave birth to a child on behalf of the mother, and the child."
+KIN_007,isBiologicalSiblingOf,A relation between two people that have one or both biological parents in common.
+KIN_008,isFullsiblingOf,A relation between two people that have both biological parents in common.
+KIN_009,isMultipleBirthSiblingOf,A relation between two people born at the same birth.
+KIN_010,isMonozygoticMultipleBirthSiblingOf,A relation between two people born at the same birth from a single fertilised ovum that splits.
+KIN_011,isPolyzygoticMultipleBirthSiblingOf,A relation between two people born at the same birth from fertilisation of more than two ovums discharged in a single ovarian cycle.
+KIN_012,isHalfSiblingOf,A relation between two people that have a single biological parent in common.
+KIN_013,isParentalSiblingOf,A relation that indicates that a person is the sibling of a parent of another person.
+KIN_014,isCousinOf,A relation between a person and a child of that person's uncle or aunt.
+KIN_015,isMaternalCousinOf,A relation between a person and a child of that person's mother's sibling.
+KIN_016,isPaternalCousinOf,A relation between a person and a child of that person's father's sibling.
+KIN_017,isGrandparentOf,A relation between a person and a child of that person's child.
+KIN_018,isGreatGrandparentOf,A relation between a person and a child of that person's grandchild.
+KIN_019,isSocialLegalRelativeOf,"A social or legal relationship between two people, for example, an adoptive parent."
+KIN_020,isParentFigureOf,A relation between a person who is regarded as having all or some of the characteristics of a parent and the child.
+KIN_021,isFosterParentOf,"A relation between a person and a child that temporarily enters into his or her family for a period of time, without becoming the child's legal parent."
+KIN_022,isAdoptiveParentOf,"A legal relation between a person and a child that is adopted by that person. The adopted child is given the rights, privileges, and duties of a biological child by the adoptive person."
+KIN_023,isStepParentOf,"A relation between a person and a child, where the person is married to the father or mother of a child but who is not that child's own father or mother."
+KIN_024,isSiblingFigureOf,A relation between two people that has all or some of the characteristics of a sibling relationship.
+KIN_025,isStepSiblingOf,"A relation between children born of two different families who have been joined by marriage, defacto or otherwise, of at least one of their respective parents."
+KIN_026,isPartnerOf,A socio-legal relationship between two people who live together and share a common domestic life.
+KIN_027,isBiologicalMotherOf,A relation that indicates that a person is the biological mother of another person.
+KIN_028,isBiologicalFatherOf,A relation that indicates that a person is the biological father of another person.
+KIN_029,isMitochondrialDonorOf,"A relation between a woman that has donated mitochondria and a child. Mitochondrial donation involves removing the nuclear DNA from a woman’s ovum containing faulty mitochondria and inserting it into a healthy donor ovum, which has had its nuclear DNA removed."
+KIN_030,isConsanguineousPartnerOf,"A socio-legal relationship between two people who live together, share a common domestic life and are closely related biologically (second cousins or closer)."
+KIN_031,hasSex,A relation used to indicate the sex of a person.
+KIN_032,isBiologicalChildOf,A relation that indicates that a person is the biological child of another person.
+KIN_036,isGrandchildOf,A relation between a person and a parent of that person's parent.
+KIN_038,isOvumDonorOf,A relation between a fertile woman who donated an egg to another woman to help her conceive and the child.
+KIN_039,hasGestationalCarrier,A relation between the child and a woman who carried a fertilised egg in her womb and gave birth to a child on behalf of the mother.
+KIN_046,hasParentalSibling,"A relation that indicates that a person has a parental sibling relationship with another person, i.e., the other person is the sibling of a parent."
+KIN_047,isGreatGrandchildOf,A relation between a person and a parent of that person's grandparent.
+KIN_050,isSeparatedPartnerOf,"A socio-legal relationship between two people who used to live together and share a common domestic life, but have now separated."
+KIN_051,isSeparatedConsanguineousPartnerOf,"A socio-legal relationship between two people who used to live together, share a common domestic life and are closely related biologically (second cousins or closer), and have now separated."
+KIN_052,isMaternalGrandparentOf,A relation between a person and a child of that person's daughter.
+KIN_053,isPaternalGrandparentOf,A relation between a person and a child of that person's son.
+KIN_054,isMaternalHalfSiblingOf,A relation between two people that share the same biological mother.
+KIN_055,isPaternalHalfSiblingOf,A relation between two people that share the same biological father.
+KIN_056,isMaternalStepSiblingOf,"A relation between children born of two different families who have been joined by marriage, defacto or otherwise. One is a biological child and the other is a step child of the same woman."
+KIN_057,isPaternalStepSiblingOf,"A relation between children born of two different families who have been joined by marriage, defacto or otherwise. One is a biological child and the other is a step child of the same man."
+KIN_058,isMaternalUncleOf,A relation between a man and the child of that man's sister.
+KIN_059,isPaternalUncleOf,A relation between a man and the child of that man's brother.
+KIN_060,isMaternalAuntOf,A relation between a woman and the child of that woman's sister.
+KIN_061,isPaternalAuntOf,A relation between a woman and the child of that woman's brother.
